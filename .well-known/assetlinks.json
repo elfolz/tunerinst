@@ -1,0 +1,15 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.app.tunerinst",
+			"sha256_cert_fingerprints": [
+				"1A:9F:93:7C:D3:CB:E7:10:D8:82:72:18:54:35:99:07:B1:51:AC:6E:AE:76:CF:84:13:6F:DC:06:9C:61:FB:AF",
+				"D5:01:8C:1D:D1:E3:69:40:CD:E8:F2:76:72:87:B5:66:F2:18:E7:C5:5D:D3:AD:CF:E7:E3:BB:92:FE:EB:C2:BB"
+			]
+		}
+	}
+]
