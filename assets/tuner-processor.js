@@ -3,7 +3,7 @@ class TunerProcessor extends AudioWorkletProcessor {
 	static get parameterDescriptors() {
 		return [{
 			name: 'bufferSize',
-			defaultValue: 4096
+			defaultValue: 2048
 		}]
 	}
 
